@@ -12,7 +12,8 @@ Public repository of the code for the 2025 Web3Privacy Now Summit held in Prague
 
 ## COMMENTS
 
-- This repository is automatically deployed on Github Pages and has it's own custom subdomain: [summit.web3privacy.info](https://summit.web3privacy.info/)
+- This repository is automatically deployed on Github Pages 
+- The website has a unique subdomain: [s25prg.web3privacy.info](https://s25prg.web3privacy.info/)
 
 ## RELEASES
 
